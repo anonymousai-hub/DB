@@ -7,18 +7,24 @@
 
 body{
     display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.ctn{
+    display: flex;
     flex-wrap: wrap;
     gap: 10px;
 }
 
-body img{
+.ctn img{
     display: flex;
     width: fit-content;
     height: 120px;
     cursor: pointer;
 }
 
-body video{
+.ctn video{
     display: flex;
     width: fit-content;
     height: 120px;
