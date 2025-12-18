@@ -1,0 +1,20 @@
+[
+    {
+        "id": 2,
+        "type": "Mensagem",
+        "data": "25-09-2025",
+        "imgUrl": "",
+        "videoUrl": "",
+        "title": "Você recebeu 500 créditos de boas vindas!",
+        "description": "Aproveite seus créditos para explorar os recursos do Graham AI e começar a criar com inteligência e eficiência desde o primeiro acesso."
+    },
+    {
+        "id": 1,
+        "type": "Notificação",
+        "data": "25-09-2025",
+        "imgUrl": "",
+        "videoUrl": "",
+        "title": "Bem-Vindo Graham AI",
+        "description": "Sua mais nova plataforma de IA projetada para oferecer respostas precisas, suporte inteligente e eficiência, transformando tecnologia avançada em soluções práticas e confiáveis."
+    }
+]
