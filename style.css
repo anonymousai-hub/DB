@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    gap: 0;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+body img{
+    display: flex;
+    width: fit-content;
+    height: 120px;
+    cursor: pointer;
+}
+
+body video{
+    display: flex;
+    width: fit-content;
+    height: 120px;
+    cursor: pointer;
+}
