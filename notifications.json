@@ -1,4 +1,31 @@
-[   
+[
+    {
+        "id": 6,
+        "type": "Notificação",
+        "data": "05-01-2026",
+        "imgUrl": "",
+        "videoUrl": "https://anonymousai-hub.github.io/DB/video/upd-1.5.mp4",
+        "title": "Bem-vindo Graham 1.5",
+        "description": "Acabámos de lançar uma grande atualização, com melhorias significativas na interface e na interação com o modelo de IA, trazendo mais contexto, maior fluidez e desempenho aprimorado."
+    },
+    {
+        "id": 5,
+        "type": "Notificação",
+        "data": "28-12-2025",
+        "imgUrl": "https://anonymousai-hub.github.io/DB/img/Graham-docs.png",
+        "videoUrl": "",
+        "title": "Nova Documentação",
+        "description": "Uma nova página de documentação, mais clara e organizada, que agora inclui a visualização do status da aplicação, tornando o Graham mais transparente, confiável e fácil de acompanhar."
+    },
+    {
+        "id": 4,
+        "type": "Mensagem",
+        "data": "25-12-2025",
+        "imgUrl": "",
+        "videoUrl": "",
+        "title": "Um Presente Especial do Graham para Você 🎄",
+        "description": "Neste Natal, o Graham deseja a você momentos de alegria, paz e boas conquistas ao lado de quem é importante. Para celebrar essa data especial, estamos enviando 1.500 créditos de presente, para que você aproveite ao máximo todas as funcionalidades e explore o melhor da nossa IA. \n Que este Natal seja inspirador e que o próximo ano traga ainda mais ideias, projetos e realizações. Boas festas!"
+    },
     {
         "id": 3,
         "type": "Notificação",
