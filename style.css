@@ -13,6 +13,12 @@ body{
 
 .ctn{
     display: flex;
+    gap: 20px;
+}
+
+.imgs{
+    display: flex;
+    width: 80%;
     flex-wrap: wrap;
     gap: 10px;
 }
@@ -29,4 +35,19 @@ body{
     width: fit-content;
     height: 120px;
     cursor: pointer;
+}
+
+.badges{
+    display: flex;
+    width: 20%;
+    height: 100%;
+    overflow: hidden;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.badges img{
+    display: flex;
+    width: 100px;
+    height: fit-content;
 }
